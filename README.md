@@ -6,8 +6,8 @@
 bikeshare.py
 
 ### Instructions
-Extract bikeshare.zip
-Execute bikeshare.py in a python3 terminal
+1. Extract bikeshare.zip
+2. Execute bikeshare.py in a python3 terminal
 
 ### Data Files used
  - chicago.csv
